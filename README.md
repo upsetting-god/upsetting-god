@@ -1,4 +1,8 @@
-## Hello everyone
-<div id="header" align="center">
-  <img src="https://w.wallhaven.cc/full/po/wallhaven-pow5y9.png" width="100"/>
-</div>
+
+<p align="center">
+    <i>It's only after we have lost everything that we are free to do anything.</i> 
+</p>
+
+<p align="right">
+    <i>- Tyler Durden, Fight Club</i>
+</p>
